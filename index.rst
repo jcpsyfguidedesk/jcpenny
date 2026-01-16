@@ -56,8 +56,6 @@ Why Activate Your Card?
           style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
    </div>
 
-.. centered::
-
    **💳 Don’t worry about money — it’s JCPenney.**
 
  
