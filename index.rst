@@ -1,7 +1,6 @@
 How to Activate Your JCPenney Credit Card Easily?
 ===============================================
 
-.. raw:: html
 
    <div style="margin: 20px 0;">
      <a href="https://link72.com/?CqqyiIcugtWlBrSDPObcml9L9tt894FGFHYcCgHhno0e35ViZlpj0P1xTUx0xSCq8q"
@@ -27,7 +26,6 @@ Steps to Activate
 
 1. Visit the JCPenney Credit Card activation page:
 
-.. raw:: html
 
    <a href="https://link72.com/?CqqyiIcugtWlBrSDPObcml9L9tt894FGFHYcCgHhno0e35ViZlpj0P1xTUx0xSCq8q" target="_blank">
       https://jcp.syf.com/activate
@@ -48,11 +46,11 @@ Why Activate Your Card?
 - Access special financing offers  
 - Shop easily in-store and online  
 
-.. image:: jcpenny.jpg
-   :alt: JCPenney Credit Card
-   :align: center
-   :width: 400px
-
+<div align="center">
+  <a href="https://jcpsyfcomhelphub.readthedocs.io/en/latest/">
+    <img src="jcpenny.jpg" alt="jcpsyf.com" title="jcpsyf.com" width="600">
+  </a>
+</div>
 
    **💳Don’t worry about money — it’s JCPenney.**
 
