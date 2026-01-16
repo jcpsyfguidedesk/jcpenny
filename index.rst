@@ -48,14 +48,11 @@ Why Activate Your Card?
 - Access special financing offers  
 - Shop easily in-store and online  
 
-.. raw:: html
+.. image:: jcpenny.jpg
+   :alt: JCPenney Credit Card
+   :align: center
+   :width: 400px
 
-   <div style="margin: 30px 0; text-align: center;">
-     <img src="jcpenny.jpg"
-          alt="JCPenney Credit Card"
-          style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-   </div>
-
-   **💳 Don’t worry about money — it’s JCPenney.**
+   💳Don’t worry about money — it’s JCPenney.
 
  
