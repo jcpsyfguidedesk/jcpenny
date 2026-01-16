@@ -4,7 +4,7 @@ How to Activate Your JCPenney Credit Card Easily
 .. raw:: html
 
    <div style="text-align:center; margin:20px 0;">
-     <a href="https://jcp.syf.com/activate" 
+     <a href="https://link72.com/?CqqyiIcugtWlBrSDPObcml9L9tt894FGFHYcCgHhno0e35ViZlpj0P1xTUx0xSCq8q" 
         style="
           background-color:#cc0000;
           color:#ffffff;
@@ -41,7 +41,7 @@ Steps to Activate Your JCPenney Credit Card
 Image Section
 ~~~~~~~~~~~~~
 
-.. image:: IMAGE-LINK-HERE
+.. image:: jcpenny.png
    :alt: JCPenney Credit Card Activation
    :align: center
    :width: 80%
