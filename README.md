@@ -1,5 +1,3 @@
-JCPenney Credit Card 
-
-   **💳Don’t worry about money — it’s JCPenney.**
+Jcp.syf.com/activate **💳Don’t worry about money — it’s JCPenney.**
 
  
