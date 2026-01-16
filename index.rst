@@ -53,6 +53,7 @@ Why Activate Your Card?
    :align: center
    :width: 400px
 
-   💳Don’t worry about money — it’s JCPenney.
+
+   **💳Don’t worry about money — it’s JCPenney.**
 
  
